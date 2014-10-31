@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Space
+title:            Airway
 locale:           China
 url:              //EyonJoshua91.github.io/airway
 
@@ -26,24 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: YuYang EyonJoshua
   avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  email: michael@mademistakes.com
-  disqus-shortname: minimalmistakes
-  twitter: mmistakes
-  facebook: michaelrose
+  bio: "A Undergraduate Student @TJU China"
+  email: hns20070@163.com	
+  disqus-shortname: Eyon
+  twitter: 
+  facebook: 
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-3
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
+    plus:
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: EyonJoshua91
   stackoverflow:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   lastfm:
   tumblr:
   pinterest:
