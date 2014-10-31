@@ -1,10 +1,6 @@
 # Site wide configuration
 
-<<<<<<< HEAD
-title:          I dont under stand
-=======
 title:            Minimal Mistakes
->>>>>>> e175ef53195baaaf51dbb3359527eca094b451e9
 locale:           en_US
 url:              //mmistakes.github.io/minimal-mistakes
 
@@ -32,32 +28,6 @@ kramdown:
 owner:
   name: Michael Rose
   avatar: bio-photo.jpg
-<<<<<<< HEAD
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-=======
   bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
   email: michael@mademistakes.com
   disqus-shortname: minimalmistakes
@@ -80,7 +50,6 @@ owner:
   foursquare:
   steam:
   dribbble:
->>>>>>> e175ef53195baaaf51dbb3359527eca094b451e9
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
