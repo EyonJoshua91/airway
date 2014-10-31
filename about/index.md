@@ -3,7 +3,10 @@ layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
+<<<<<<< HEAD
 comments: true
+=======
+>>>>>>> e175ef53195baaaf51dbb3359527eca094b451e9
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
@@ -22,4 +25,8 @@ Minimal Mistakes is responsive Jekyll theme with large featured images and solid
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
 
+<<<<<<< HEAD
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+=======
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+>>>>>>> e175ef53195baaaf51dbb3359527eca094b451e9
