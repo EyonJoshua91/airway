@@ -3,7 +3,8 @@
 title:            Airway
 locale:           China
 url:              //EyonJoshua91.github.io/airway
-
+safe: false
+plugins: /_plugins
 
 # Jekyll configuration
 
