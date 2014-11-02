@@ -20,7 +20,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-### 文字输出
+# 文字输出
 
 * 文字前面会出现 特殊字符，用于列项
 
@@ -88,7 +88,7 @@ airway/
 {:.notice}
 
 
-###图片输出:
+#图片输出:
 
 ## 单张图片输出:
 <figure>
@@ -111,6 +111,6 @@ airway/
 
 
 
-###  视频输出
+#  视频输出
 <iframe height="498" width="510" src="http://player.youku.com/embed/XNDIzOTMyMTUy" frameborder="0"></iframe>
 
