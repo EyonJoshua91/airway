@@ -20,17 +20,17 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-
-## 控制标题等级(井号越多等级越高)
+### 文字输出
 
 * 文字前面会出现 特殊字符，用于列项
 
 `文字会有底印`
 
+
+
 <a markdown="0" href="//blog.csdn.net/hns20070" class="btn">BLOG in CSDN</a>
 
 {% highlight html %}
-网页语言直接打印输出
 <figure class="half">
     <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
     <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
@@ -88,13 +88,14 @@ airway/
 {:.notice}
 
 
+###图片输出:
 
-## 单张图片输出：
+## 单张图片输出:
 <figure>
 	<a href="http://ww1.sinaimg.cn/mw600/6c92090djw1elvvz6zsg3j20ph0o7goo.jpg"><img src="http://ww1.sinaimg.cn/mw600/6c92090djw1elvvz6zsg3j20ph0o7goo.jpg"></a>
 </figure>
 
-## 并排图片输出：
+## 并排图片输出:
 
 <figure class="half">
 	<a href="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028220.jpg"><img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028220.jpg"></a>
@@ -110,6 +111,6 @@ airway/
 
 
 
-##  视频输出
+###  视频输出
 <iframe height="498" width="510" src="http://player.youku.com/embed/XNDIzOTMyMTUy" frameborder="0"></iframe>
 
