@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
@@ -23,7 +24,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
