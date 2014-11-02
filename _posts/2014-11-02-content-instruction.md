@@ -114,3 +114,11 @@ airway/
 #  视频输出
 <iframe height="498" width="510" src="http://player.youku.com/embed/XNDIzOTMyMTUy" frameborder="0"></iframe>
 
+#  SWF输出
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+{% swfobject swf_url %}
+<p>Latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
+{% endswfobject %}
+
+
+#   结束
