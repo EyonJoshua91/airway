@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instruction for wirting a post"
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "Examples and code for details in a post."
 tags: [learn, post, record]
 comments: true
 ---
@@ -12,7 +12,7 @@ comments: true
 
 * 文字前面会出现 特殊字符，用于列项
 
-'文字会有底印'
+`文字会有底印`
 
 {% highlight html %}
 网页语言直接打印输出
@@ -31,17 +31,17 @@ comments: true
 </figure>
 
 ## 并排图片输出：
+两张图片
 <figure class="half">
 	<a href="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028220.jpg"><img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028220.jpg"></a>
 	<a href="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028227.jpg"><img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141028227.jpg"></a>
-	<figcaption>两张图片.</figcaption>
 </figure>
 
+三张图片
 <figure class="third">
 	<img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141020211.jpg">
 	<img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141020214.jpg">
 	<img src="http://www.patent-cn.com/wp-content/uploads/2014/10/20141020212.jpg">
-	<figcaption>三张图片.</figcaption>
 </figure>
 
 
