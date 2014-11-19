@@ -1,0 +1,7 @@
+#  SWFÊä³ö
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+{% swfobject swf_url %}
+<p>Latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
+{% endswfobject %}
+
+{% swfobject http://qq249181841.6000y.com/swf/2014-10-16/232712270.swf content_id=exampleC width:100% height:200px bgcolor:#FFFFFF menu:false %}
