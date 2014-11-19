@@ -17,7 +17,7 @@
 # Author: Jens Krause http://websector.de
 # Source: https://github.com/sectore/jekyll-swfobject
 # License: MIT
-
+require 'jekyll-swfobject'
 module Jekyll
   module SWFObject
     class SWFObjectTag < Liquid::Block
